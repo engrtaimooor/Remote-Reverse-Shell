@@ -1,1 +1,3 @@
-pip install flask requests prompt_toolkit
+flask
+requests
+prompt_toolkit
