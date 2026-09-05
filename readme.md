@@ -1,4 +1,4 @@
-# Remote Client-Server Management System
+# Remote Reverse Shell Project
 
 > ⚠️ **Authorized Use Only:** This project is intended strictly for educational purposes and controlled laboratory environments where you own or have explicit permission to access all systems involved.
 
